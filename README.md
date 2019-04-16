@@ -1,4 +1,4 @@
-## A library to use the HC-SR04 with a Arduino
+## An Arduino library to use the HC-SR04
 
 ![Image of HC-SR04 Board](/hcsr04.png?raw=true)
 
